@@ -1,6 +1,6 @@
 <img width="100" src="img/logo.png"/>
 
-## bw 跟打器
+## 达达跟打器
 
 bswen type pad
 

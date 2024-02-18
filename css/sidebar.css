@@ -1,0 +1,20 @@
+.ad-sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 160px; /* adjust as needed */
+  z-index: 100; /* ensure the ad is above other content */
+}
+
+.ad-sidebar img {
+  height: 100%;
+  width: 100%;
+}
+
+.ad-sidebar.left {
+  left: 0;
+}
+
+.ad-sidebar.right {
+  right: 0;
+}
